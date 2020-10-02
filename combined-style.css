@@ -1,0 +1,84 @@
+/*applies to all pages*/
+nav {
+  float: center;
+  clear: both;
+  margin-left: 300px;
+}
+
+header {
+  font-size: 40px;
+  clear: both;
+  float: left;
+  padding: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+footer {
+  text-align: center;
+  background: red;
+}
+
+/*applies to portfolio*/
+.header-p {
+  font-size: 20px;
+  clear: both;
+  float: left;
+  padding: 50px;
+}
+
+.container {
+  background: forestgreen;
+}
+
+.card1p {
+  float: center;
+  padding: 30px;
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-right: 500px;
+}
+
+.card2p {
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-right: 500px;
+}
+
+/*applies to home index*/
+.main-index {
+  float: left;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+h1 {
+  background: brown;
+}
+
+h2 {
+  background: forestgreen;
+}
+
+h3 {
+  background: brown;
+}
+
+.fire {
+  margin-left: 50px;
+}
+
+.climber {
+  margin-right: 50px;
+}
+
+.usda {
+  margin-top: 20px;
+}
+
+/*applies to contact sheet*/
+.container-contact {
+  background: blue;
+  margin-left: 200px;
+  margin-right: 200px;
+}
